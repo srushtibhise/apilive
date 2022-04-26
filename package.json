@@ -1,0 +1,30 @@
+{
+  "name": "apiflipkart",
+  "version": "1.0.0",
+  "description": "flipkartapi",
+  "main": "index.js",
+  "scripts": {
+    "start": "Node flipkartclone",
+    "dev": "Node app1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srushtibhise/LiveAPI.git"
+  },
+  "keywords": [
+    "flipkartapi"
+  ],
+  "author": "Srushti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srushtibhise/LiveAPI/issues"
+  },
+  "homepage": "https://github.com/srushtibhise/LiveAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  }
+}

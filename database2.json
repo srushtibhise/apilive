@@ -1,0 +1,75 @@
+
+[
+    {
+        "id": 1,
+        "product name": "Women Fit and Flare Black, Beige Dress",
+        "category": "Fashion",
+        "category_id": 1,
+        "price": 245,
+        "size": "Medium",
+        "color": "beige",
+        "brand": "Amazi ",
+        "image": "https://ibb.co/QXfncyd"
+    },
+
+    {
+        "id": 2,
+        "product name": "Women Maxi Black, White Dress",
+        "category": "Fashion",
+        "category_id": 1,
+        "price": 549,
+        "size": "Large",  
+        "color": "black",
+        "brand": "ziba",
+        "image":"https://ibb.co/7Y5mCd1"
+    },
+
+    {
+        "id": 3,
+        "product name": "Women Skater Pink Dress",
+        "category": "Fashion",
+        "category_id": 1,
+        "price": 259,
+        "size": "XL",
+        "color": "pink",
+        "brand": "H&M",
+        "image": "https://ibb.co/vLfPwfP"
+    },
+
+    
+    {
+        "id": 4,
+        "product name": "realme GT 2 Pro",
+        "category": "Mobiles",
+        "category_id": 1,
+        "price": 698,
+        "size": 8,
+      
+        "color": "grey",
+        "brand": "ASIAN "
+    },
+
+    {
+        "id": 5,
+        "product_name": "realme 9i (Prism Black, 64 GB) (4 GB RAM)",
+        "category": "Mobiles",
+        "category_id": 2,
+        "price": 49999,
+        "Ram": "8GB",
+        "model_name": "9i",
+        "color": "Paper Green",
+        "brand": "realMe"
+    },
+
+    {
+        "id": 6,
+        "product_name": "Iphone 13",
+        "category": "Mobiles",
+        "category_id": 2,
+        "price": 79000,
+        "Ram": "128GB",
+        "color": "Starlight Black",
+        "brand": "Apple"
+    }
+]
+    
